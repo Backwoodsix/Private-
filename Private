@@ -256,7 +256,7 @@ local function step3_duplicate()
     hideUI(true)
     hideScreen()
 
-    HRP.CFrame = sell.CFrame + Vector3.new(0, 3, 0)
+    HRP.CFrame = -49.6199379, 289.04306, -336.21814 + Vector3.new(0, 3, 0)
     lagSwitch(true)
     task.wait(0.25)
 
