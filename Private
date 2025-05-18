@@ -133,7 +133,7 @@ local function step1_buyAndTeleport(callback)
 
     getgenv().FreeFallMethod = true
     task.wait(0.8)
-    HRP.CFrame = CFrame.new(-1040.95618, 253.924194, -1217.70349)
+    HRP.CFrame = CFrame.new(-577.606445, 254.297882, -469.718445)
     getgenv().FreeFallMethod = false
 
     print(">> STEP 1 complete.")
